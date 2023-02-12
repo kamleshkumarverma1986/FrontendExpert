@@ -5,6 +5,8 @@
   and also handle the throttling. means how many progress bars
   can be run at once, that should be limit.
 
+  [Without using setTimeout]
+
 */
 
 /*
