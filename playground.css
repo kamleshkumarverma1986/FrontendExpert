@@ -1,0 +1,23 @@
+@keyframes fillbar {
+    from {
+      width: 0%;
+    }
+    to {
+      width: 100%;
+    }
+  }
+  
+  .container {
+    background-color: grey;
+    height: 50px;
+    width: 500px;
+    margin: 10px;
+  }
+  
+  .container .progressbar {
+    background-color: green;
+    height: 100%;
+    width: 0%;
+    animation-name: fillbar;
+    width: 100%;
+  }
