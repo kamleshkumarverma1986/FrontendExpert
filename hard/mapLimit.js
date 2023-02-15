@@ -1,3 +1,10 @@
+/*
+
+  [Asked in FAANG (Facebook, Amazon, Apple, Netflix and Google ) companies]
+   Uber, Microsoft etc.
+
+*/
+
 // Implement mapLimit, which is a utility function that produces a list of outputs
 // by mapping each input through an asynchronous iteratee function.
 // The provided limit dictates how many async operations can occur at once.

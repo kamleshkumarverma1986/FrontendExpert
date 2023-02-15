@@ -1,4 +1,6 @@
 /*
+[Asked in Uber, Microsoft etc]
+
 He (Lazyman) can sleepFirst(time: number), which has the highest priority among all tasks, no matter what the order is.
 
 LazyMan('Jack', console.log).eat('banana').sleepFirst(10).eat('apple').sleep(1);
